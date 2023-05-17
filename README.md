@@ -14,3 +14,7 @@ this script login to steam anonymously and can use steam features <br />
 ```bash
 npm install steam-user
 ```
+4. Run the script
+```bash
+node bot.js
+```
