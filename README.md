@@ -3,6 +3,7 @@
 ![Logo](https://community.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)
 
 this script login to steam anonymously and can use steam features 
+```steam-user``` module is used in this script
 ## Installation 
 
 1. download the script
